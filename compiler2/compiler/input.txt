@@ -1,0 +1,22 @@
+procedure myProc; 
+begin
+    var x,y,c: integer;
+    y:=1;
+    repeat
+
+
+        x := 1;
+        y := x;
+        repeat
+        x := 1;
+        y := x;
+        repeat
+        x := 1;
+        y := x;
+    until x + 1 > 0;
+    until x + 1 > 0;
+    until x + 1 > 0;
+
+
+
+end

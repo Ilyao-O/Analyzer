@@ -1,0 +1,25 @@
+procedure myProc FB
+integer x y c 4 DECL
+y 1 := 
+m1 DEFL
+x 1 := 
+y x := 
+m3 DEFL
+x 1 := 
+y x := 
+m5 DEFL
+x 1 := 
+y x := 
+x 1 + 0 > 
+m6 BF
+m5 BRL
+m6 DEFL
+x 1 + 0 > 
+m4 BF
+m3 BRL
+m4 DEFL
+x 1 + 0 > 
+m2 BF
+m1 BRL
+m2 DEFL
+end
